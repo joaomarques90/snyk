@@ -17,3 +17,5 @@ snyk_report.html
 !/docker/snyk_report.css
 cert.pem
 key.pem
+test/acceptance/workspaces/sbt-app/project/
+test/acceptance/workspaces/sbt-app/target/
